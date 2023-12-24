@@ -30,5 +30,12 @@ class HomeFragment : Fragment(), View.OnClickListener {
     }
 
     override fun onClick(v: View?) {
+        val categoryFragment = CategoryFragment()
+        val fragmentManager = parentFragmentManager
+        fragmentManager.beginTransaction().apply {
+            replace(R.id.frame_container, categoryFragment, CategoryFragment::class.java.simpleName)
+            addToBackStack(null)
+            commit()
+        }
     }
 }
