@@ -13,9 +13,12 @@
       <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/java/com/example/latihanfragment/CategoryFragment.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/java/com/example/latihanfragment/DetailCategoryFragment.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/java/com/example/latihanfragment/OptionDialogFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/java/com/example/latihanfragment/ProfileActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/res/layout/fragment_category.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/res/layout/fragment_detail_category.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/res/layout/fragment_option_dialog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KOTLIN/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KOTLIN/app/src/main/java/com/example/latihanfragment/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/java/com/example/latihanfragment/HomeFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

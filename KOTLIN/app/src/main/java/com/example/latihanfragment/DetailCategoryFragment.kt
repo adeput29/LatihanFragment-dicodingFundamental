@@ -41,7 +41,6 @@ class DetailCategoryFragment : Fragment() {
         btnProfile = view.findViewById(R.id.btn_profile)
         btnShowDialog = view.findViewById(R.id.btn_show_dialog)
 
-
         if (savedInstanceState != null) {
             val descFromBundle = savedInstanceState.getString(EXTRA_DESCRIPTION)
             description = descFromBundle
@@ -51,7 +50,6 @@ class DetailCategoryFragment : Fragment() {
             tvCategoryName.text = categoryName
             tvCategoryDescription.text = description
         }
-
         btnShowDialog.setOnClickListener{
             val optionDialogFragment = OptionDialogFragment()
             val fragmentManager = childFragmentManager
